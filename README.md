@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Abhishek Misal 🕸️</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="300" />
 </p>
+
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -26,8 +28,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmisal2169&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmisal2169&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmisal2169&show_icons=true&theme=radical" height="165" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmisal2169&theme=dark" height="165" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmisal2169&layout=compact&theme=gruvbox" />
 </p>
 
 ---
@@ -56,4 +61,3 @@
 ---
 
 🧡 _Thanks for swinging by! ⭐ my repositories if you enjoy my work!_
-
