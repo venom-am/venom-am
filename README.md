@@ -1,4 +1,7 @@
 <h1 align="center">Hey, I'm Abhishek Misal 🕸️</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="300" />
+</p>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
