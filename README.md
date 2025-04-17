@@ -25,15 +25,9 @@
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmisal2169&show_icons=true&theme=radical" height="165" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmisal2169&theme=dark" height="165" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmisal2169&layout=compact&theme=gruvbox" />
-</p>
+- 🛠️ [Up Next](https://github.com/chiraagsharma24/up-next) — Contributed to backend features using Next JS and Improved UI.
 
 ---
 
